@@ -1,5 +1,7 @@
 # Vítej u mě doma 🔥
 
+## Jenuji se Tadeáš a jsem
+### Junior Front End Developer
 <!--
 **Nimixx/nimixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
