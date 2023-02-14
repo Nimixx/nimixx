@@ -2,7 +2,7 @@
 
 <h3 align="center">Jsem začínající Front End developer.</h3>
 
-<p align="left">Aktuálně pracuju na několika menších projektech a snažím se o získání nových zkušeností v oblastni Front End vývoje webových aplikací a stránek.</p>
+<p align="left">Aktuálně pracuju na několika menších projektech a snažím se o získání nových zkušeností v oblastni Front End vývoje webových aplikací a stránek. Budu rád když se zde trochu rozhlédneš a třeba najdeš něco co ti bude připadat zajímavé.</p>
 <!--
 **Nimixx/nimixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
