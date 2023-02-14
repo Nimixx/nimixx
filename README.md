@@ -8,6 +8,6 @@
 
 - 🔭 Aktuálně pracuji na projektech **Wade** │ **Underline**
 - 🔥 Nejraději pracuju v <a href="https://reactjs.org/"><strong>Reactu</strong></a>
-- 😜 Rád styluju pomocí <a href="https://sass-lang.com/"><strong>Sass</strong></a> **Sass** nebo <a href="https://tailwindcss.com/"><strong>Tailwind CSS</strong></a>
+- 😜 Rád styluju pomocí <a href="https://sass-lang.com/"><strong>Sass</strong></a> nebo <a href="https://tailwindcss.com/"><strong>Tailwind CSS</strong></a>
 
 
