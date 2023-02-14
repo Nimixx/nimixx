@@ -13,6 +13,5 @@
 <h3 align="left">Kde mně najdeš?</h3>
 
 <a href="https://www.linkedin.com/in/tade%C3%A1%C5%A1-thelen-540728250/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tadeáš-thelen" height="30" width="40" /></a>
-<a href="https://codepen.io/nimixx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nimixx" height="30" width="40" /></a>
 <a href="https://fb.com/nimixx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nimixx" height="30" width="40" /></a>
 <a href="https://discord.gg/nimixx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nimixx" height="30" width="40" /></a>
