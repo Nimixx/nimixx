@@ -11,3 +11,5 @@
 - ⭐ Moje portfólium najdeš na <a href="https://nimixx.cz/"><strong>nimixx.cz</strong></a>
 
 <h3 align="left">Kde mně najdeš?</h3>
+
+<a href="https://linkedin.com/in/tadeáš-thelen"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tadeáš-thelen" height="30" width="40" /></a>
