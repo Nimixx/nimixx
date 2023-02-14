@@ -12,4 +12,4 @@
 
 <h3 align="left">Kde mně najdeš?</h3>
 
-<a href="https://linkedin.com/in/tadeáš-thelen"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tadeáš-thelen" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tade%C3%A1%C5%A1-thelen-540728250/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tadeáš-thelen" height="30" width="40" /></a>
