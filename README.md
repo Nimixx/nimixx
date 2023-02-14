@@ -7,5 +7,7 @@
 <h3 align="left">Něco málo o mně</h3>
 
 - 🔭 Aktuálně pracuji na projektech **Wade** │ **Underline**
+- 🔥 Nejraději pracuju v **Reactu**
+- 😜 Rád styluju pomocí **Sass** nebo **TailWind CSS**
 
 
