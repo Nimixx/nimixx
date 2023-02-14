@@ -1,4 +1,4 @@
-<h1 align="center">Vítej, jmenuji se Tadeáš Thelen 🔥</h1>
+<h1 align="center">Vítej, jmenuji se Tadeáš Thelen 🔥\n Ahoj</h1>
 
 <h3 align="center">Jsem začínající Front End developer.</h3>
 
