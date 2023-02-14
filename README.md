@@ -1,6 +1,6 @@
-<h1 align="center">Vítej 🔥, jmenuji se Tadeáš Thelen</h1>
+<h1 align="center">Vítej, jmenuji se Tadeáš (Nimixx)</h1>
 
-<h3 align="center" style="color:red">Jsem začínající Front End developer.</h3>
+<h3 align="center">Jsem začínající Front End developer.</h3>
 <!--
 **Nimixx/nimixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
