@@ -7,7 +7,7 @@
 <h3 align="left">Něco málo o mně</h3>
 
 - 🔭 Aktuálně pracuji na projektech **Wade** │ **Underline**
-- 🔥 Nejraději pracuju v <a href="https://reactjs.org/" target="blank"><strong>Reactu</strong></a>
+- 🔥 Nejraději pracuju v <a href="https://reactjs.org/" target="_blank"><strong>Reactu</strong></a>
 - 😜 Rád styluju pomocí **Sass** nebo **TailWind CSS**
 
 
